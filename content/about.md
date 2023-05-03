@@ -7,4 +7,6 @@ Hi, I'm Miilkbone
 
 I'm making a change to see if it will publish
 
+I'm trying to make this thing work.
+
 ![Miilkbone on da crate](/img/miilkbone.jpg)
